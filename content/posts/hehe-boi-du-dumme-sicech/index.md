@@ -1,7 +1,7 @@
 +++
 title = "Recoding SMB1 "
 date = "2023-04-03"
-draft = true
+draft = false
 pinned = false
 tags = []
 image = "goomba.png"
