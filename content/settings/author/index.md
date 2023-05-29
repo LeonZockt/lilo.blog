@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "Bern gegen Rechts"
+name = "Leon"
 image = "/media/6bgrrko-ao18q_wlvescbr.png"
 url = "/about/"
 +++
