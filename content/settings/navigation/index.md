@@ -1,4 +1,7 @@
 +++
 headless = true
-link = []
+
+[[link]]
+title = "Wosch Zrügg?"
+url = "/"
 +++
