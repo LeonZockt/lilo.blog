@@ -2,6 +2,6 @@
 headless = true
 
 [[link]]
-title = "Wosch Zrügg?"
+title = "Dehei"
 url = "/"
 +++
