@@ -2,6 +2,6 @@
 headless = true
 icon = ""
 logo = ""
-image = "/media/145499.png"
+image = ""
 color = "#FF0000"
 +++
