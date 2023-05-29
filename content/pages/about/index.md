@@ -1,5 +1,5 @@
 +++
-title = "About Me."
+title = "BGR"
 draft = false
 image = "6bgrrko-ao18q_wlvescbr.png"
 description = "Kein Platz für Rechts. Kein Rechtsrutsch in Europa."
