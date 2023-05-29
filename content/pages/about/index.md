@@ -1,9 +1,9 @@
 +++
-title = "BGR"
+title = "Leon"
 draft = false
 image = "6bgrrko-ao18q_wlvescbr.png"
-description = "Kein Platz für Rechts. Kein Rechtsrutsch in Europa."
+description = " Alle Menschen sind gleich."
 +++
-![](6bgrrko-ao18q_wlvescbr.png)
+![161](6bgrrko-ao18q_wlvescbr.png)
 
-## Bern gegen Rechts.
+## Bern gegen Rechts. Alle Menschen sind gleich. Mensch an erster Stelle.
