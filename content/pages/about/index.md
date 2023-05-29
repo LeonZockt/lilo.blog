@@ -1,13 +1,9 @@
 +++
-title = "About me"
+title = "About Me."
 draft = false
-description = ""
-image = ""
+image = "6bgrrko-ao18q_wlvescbr.png"
+description = "Kein Platz für Rechts. Kein Rechtsrutsch in Europa."
 +++
-![](/img/default-author.jpg)
+![](6bgrrko-ao18q_wlvescbr.png)
 
-## My Name
-
-mail@example.org
-
-Here should be some info about me...
+## Bern gegen Rechts.
