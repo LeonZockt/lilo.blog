@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "Reportageprojekt "
-description = "Alle hinterfragen, ausser ob dieser Auftrag sinnvoll ist."
+title = "                                                           Reportageprojekt "
+description = "                                                         alles Hinterfragen. ausser OB dieser Auftrag SINNvoll ist ..."
 footerLeft = "Gute Musik -> <https://www.chaostruppe.net>"
-footerRight = ""
+footerRight = "Gute Partei -> <https://www.jungegruene.ch>"
 +++
