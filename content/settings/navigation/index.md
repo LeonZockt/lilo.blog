@@ -7,5 +7,5 @@ url = "/"
 
 [[link]]
 title = "übr mi haha "
-url = "https://youtube.com"
+url = "https://www.youtube.com"
 +++
