@@ -10,6 +10,8 @@ footnotes = "\\*Name auf Wunsch geändert, Name den Autoren bekannt"
 +++
 **Die amerikanische Demokratie gilt als die älteste noch existierende Demokratie der Welt. Ihre Ursprünge reichen zurück bis zur Gründung im Jahr 1776 mit der Verabschiedung der Unabhängigkeitserklärung. Schon damals setzte sie sich für die Achtung der Menschenrechte ein. Doch heute steht sie vor neuen Herausforderungen. In dieser Reportage soll untersucht werden, was diese Herausforderungen sind und wie bedrohlich die gegenwärtige Lage für die Demokratie in den Vereinigten Staaten wirklich ist.**
 
+von Leon und Simon
+
 Rachel Anderson* lebt nun schon seit über 20 Jahren in Basel und kommt ursprünglich aus den USA. Sie hört jeden Tag amerikanische Nachrichten. Die Headlines über die Zerstörung amerikanischen Demokratie, die man in der letzten Zeit immer wieder lesen konnte, schockieren sie sehr, einerseits weil es um ihr Heimatsland geht und andererseits weil noch ein Teil ihrer Familie in den USA lebt. Wir konnten Sie an einem Dienstagnachmittag interviewen. 
 
  Am Anfang des Interviews sprachen wir mit Rachel Anderson vor allem über das politische System der USA. Rachel Anderson sagte, dass sie das politische System der Schweiz besser fände. Auch auf die Frage, was den Vorteile des amerikanischen Politsystems wären, zeichnete die Antwort ein ähnliches Bild.
@@ -19,6 +21,12 @@ Rachel Anderson* lebt nun schon seit über 20 Jahren in Basel und kommt ursprün
 # Der Elefant und der Esel
 
 Durch diese anfängliche Diskussion wurden auch die Probleme der amerikanischen Demokratie schnell angesprochen. Eines der grössten, wenn nicht sogar das grösste Problem in der amerikanischen Politik, ist das Zweiparteiensystem.
+
+
+
+![](asd.png)
+
+
 
 In den USA gibt es zwei grosse Parteien, die Demokraten und die Republikaner. Die Demokratische Partei ist heute eine liberale Partei, welche sich für soziale Themen einsetzt, ihr Logo ist ein Esel. Manche Mitglieder haben sogar eine sozial-grüne Ausrichtung. Im Laufe der Zeit rutschte die Ausrichtung der Partei nach links. Die Demokraten sind für eine gute Sozialpolitik und für den Umweltschutz, bei Fragen nach Staatssicherheit gehen jedoch auch die Meinungen innerhalb der Partei auseinander. Wenn man aber historisch an das Thema herangeht, muss man feststellen, dass die Parteien einmal auf der politischen Gegenseite gestanden haben. Die Demokratische Partei setzte sich nämlich in Zeiten des Sezessionskrieges für die Fortführung der Sklaverei ein, während die Republikanische Partei damals für die Abschaffung war. Heute würde das Ganze andersherum aussehen, denn die Republikanische Partei, deren Logo der Elefant ist, setzt sich heute sehr für konservative Werte ein. Die Republikaner sind im rechten bis rechtsextremen politisches Spektrum zu verordnen, wobei sich die Partei in den letzten Jahrzehnten sehr stark nach rechts bewegt hat. Die Ziele der Republikaner könnte man mit der hier ansässigen Schweizer Volkspartei vergleichen, sie setzt sich z.B. für eine verschärfte Asylpolitik ein. Neben diesen beiden grossen Parteien existieren auch noch so genannte «Third Parties». Wie zum Beispiel die «Green Party of the United States» (Grüne Partei der Vereinigten Staaten), Die «Constitution Party» (Verfassungspartei) oder die «Libertarian Party» (liberale Partei). Diese Parteien haben in der USA wegen des politischen Systems aber in der Regel keine Chance auf grossen politischen Erfolg, da sie parteiintern zu wenig Geld haben. Diese Parteien erreichen bei den Präsidentschaftswahlen so etwa 0.2 Prozent bis 1.1 Prozent der Stimmen. Rachel Anderson sagt, dass diese höchstens auf lokaler Ebene eine kleine Chance hätten. Da kleinere Parteien, wie man hier gut sehen kann, keine Chance auf der weit bedeutsameren, nationalen Ebene haben, gibt es in den USA eben nur wenige grosse Parteien, momentan sind es eben nur zwei. Weil die kleinen Parteien auch gerne ihre Interessen auf nationaler Ebene adressieren möchten, sind sie dazu gezwungen, sich mit einer anderen, grösseren Partei zusammen zu tun, was häufig in einer Fusion der Parteien endet.
 
