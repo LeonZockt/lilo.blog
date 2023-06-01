@@ -1,7 +1,7 @@
 +++
 title = "Zerstört sich die amerikanische Demokratie selbst?"
 date = "1981-11-21"
-draft = true
+draft = false
 pinned = true
 tags = ["Politik", "USA", "Amerika", "Deutsch", "Reportage", "Antifa", "KeinPlatzFürNazis"]
 image = "sus.png"
