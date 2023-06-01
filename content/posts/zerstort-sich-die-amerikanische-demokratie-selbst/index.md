@@ -34,7 +34,7 @@ Eine der grössten Baustellen im amerikanischen Politsystem ist im Parteiensyste
 
 Dies fördert alles ein System mit zwei Parteien. Denn nur eine Partei wird am Schluss etwas erreichen, während alle anderen am Schluss leer ausgehen werden. Also haben nur grosse Parteien eine Chance, da es nur einen Gewinner gibt. Darum lohnt es sich für kleinere Parteien sich einer grösseren Partei anschliessen. Etwas weiteres, was passieren kann ist, dass ein Kandidat durch die Wahlmännerstimmen gewählt wird, obwohl der andere mehr Einzelstimmen hatte. Dies passierte bei der Wahl 2016. Auf der Seite der Demokraten stand Hillary Clinton, während sich auf der Seite der Republikaner Donald Trump zur Wahl stellte. Wie wir alle wissen, wurde Trump gewählt, obwohl er insgesamt weniger Einzelstimmen hatte als Hillary Clinton.  
 
-![](fasd.png)
+![Quelle: Keystone SDA](fasd.png "Die Wahlergebnisse von 2016")
 
 Eine Frage, die wir natürlich auch Rachel Anderson gestellt haben, ist, ob Trump, trotz anhaltender Kritik, ihrer Meinung nach gute Chancen auf eine Wiederwahl hätte.
 
