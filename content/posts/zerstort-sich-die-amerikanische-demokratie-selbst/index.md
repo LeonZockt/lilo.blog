@@ -1,6 +1,6 @@
 +++
 title = "Zerstört sich die amerikanische Demokratie selbst?"
-date = "1981-11-21"
+date = "2023-05-27"
 draft = false
 pinned = true
 tags = ["Politik", "USA", "Amerika", "Deutsch", "Reportage", "Antifa", "KeinPlatzFürNazis"]
