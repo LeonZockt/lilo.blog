@@ -10,7 +10,7 @@ footnotes = "\\*Name auf Wunsch geändert, Name den Autoren bekannt"
 +++
 **Die amerikanische Demokratie gilt als die älteste noch existierende Demokratie der Welt. Ihre Ursprünge reichen zurück bis zur Gründung im Jahr 1776 mit der Verabschiedung der Unabhängigkeitserklärung. Schon damals setzte sie sich für die Achtung der Menschenrechte ein. Doch heute steht sie vor neuen Herausforderungen. In dieser Reportage soll untersucht werden, was diese Herausforderungen sind und wie bedrohlich die gegenwärtige Lage für die Demokratie in den Vereinigten Staaten wirklich ist.**
 
-von Leon und Simon
+von Leon Strauss und Simon Schweizer
 
 Rachel Anderson* lebt nun schon seit über 20 Jahren in Basel und kommt ursprünglich aus den USA. Sie hört jeden Tag amerikanische Nachrichten. Die Headlines über die Zerstörung amerikanischen Demokratie, die man in der letzten Zeit immer wieder lesen konnte, schockieren sie sehr, einerseits weil es um ihr Heimatsland geht und andererseits weil noch ein Teil ihrer Familie in den USA lebt. Wir konnten Sie an einem Dienstagnachmittag interviewen. 
 
