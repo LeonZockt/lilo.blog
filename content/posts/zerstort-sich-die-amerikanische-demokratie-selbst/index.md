@@ -2,7 +2,7 @@
 title = "Zerstört sich die amerikanische Demokratie selbst?"
 date = "2023-05-27"
 draft = false
-pinned = false
+pinned = true
 tags = ["Politik", "USA", "Amerika", "Deutsch", "Reportage", "Antifa", "KeinPlatzFürNazis"]
 image = "sus.png"
 description = "Die amerikanische Demokratie gilt als die älteste noch existierende Demokratie der Welt. Heute steht sie vor neuen Herausforderungen. In dieser Reportage soll untersucht werden, was diese Herausforderungen sind und wie bedrohlich die gegenwärtige Lage für die Demokratie in den Vereinigten Staaten wirklich ist."
